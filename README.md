@@ -1,4 +1,3 @@
-Aqui está o texto solicitado:
 
 ### Título do Projeto
 Dashboard de Vendas - AgroFruits
