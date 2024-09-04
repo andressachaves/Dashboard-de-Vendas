@@ -1,29 +1,24 @@
-Here is a README file based on the provided image for the "Business Case Dashboard de Vendas" project:
+Aqui está o texto solicitado:
 
----
+### Título do Projeto
+Dashboard de Vendas - AgroFruits
 
-# Business Case: Dashboard de Vendas
+### Descrição
+Este projeto envolve a criação de um dashboard no Power BI para a empresa AgroFruits, com o objetivo de monitorar o desempenho financeiro e operacional. O dashboard foi desenvolvido para destacar a sazonalidade das culturas, otimizar a logística de transporte, avaliar o desempenho das fazendas e explorar a expansão do mercado.
 
-## Contexto
+### Como instalar e rodar o projeto
+1. Clone o repositório em sua máquina local.
+2. Abra o Power BI e importe o arquivo `.pbix` do dashboard.
+3. Conecte as fontes de dados conforme necessário.
 
-A AgroFruits necessita de uma visão abrangente das receitas e volumes de produção, com destaque para a sazonalidade das culturas, desempenho das fazendas, e representatividade dos países importadores e tipos de transporte. O objetivo principal deste dashboard é monitorar o desempenho financeiro e operacional, identificar tendências sazonais e otimizar a logística de transporte.
+### Como usar
+1. Navegue pelas diferentes páginas do dashboard para visualizar os KPIs.
+2. Use filtros disponíveis para ajustar as visualizações conforme a necessidade.
 
-## Objetivos de Análise
+### Como contribuir
+1. Fork o repositório.
+2. Crie uma nova branch para suas alterações.
+3. Envie um pull request com uma descrição detalhada das mudanças.
 
-1. **Sazonalidade:** Utilizar dados de sazonalidade para planejar estratégias que maximizem a receita nos períodos de maior demanda.
-2. **Otimização de Transporte:** Analisar a representatividade de tipos de transporte e alocação de recursos para maior eficiência econômica.
-3. **Desempenho de Fazendas:** Identificar fazendas com melhor desempenho e aplicar essas práticas em outras.
-4. **Expansão de Mercado:** Avaliar oportunidades em mercados subexplorados.
-
-## Indicadores Chave de Desempenho (KPIs)
-
-- **Receita Total:** Monitorar o total de receita gerada.
-- **Volume de Produção:** Acompanhar o volume total de produção.
-- **Receita por Fazenda:** Identificar a performance individual de cada fazenda.
-- **Receita por País Importador:** Analisar a contribuição de cada país importador.
-- **Volume por Mês (Sazonalidade de Cultivos):** Acompanhar a sazonalidade e os volumes de produção por mês.
-- **Representação por Tipo de Transporte:** Medir a distribuição e eficiência de cada tipo de transporte (Barco, Caminhão, Avião).
-
----
-
-This README provides an overview of the business case, outlining the context, analysis objectives, and key performance indicators that will guide the development and utilization of the sales dashboard.
+### Licença
+Este projeto está licenciado sob a licença MIT.
